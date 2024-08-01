@@ -1,2 +1,2 @@
 # Tic-Tac-game
-Simple tic-tac game made using python.
+This is a simple tic-tac game made using python.
